@@ -10,3 +10,5 @@ Calling
 Messaging
 
 Internet
+
+calculator
