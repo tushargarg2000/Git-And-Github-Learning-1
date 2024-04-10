@@ -1,0 +1,7 @@
+
+Send message to person
+
+set word limit
+
+cost 1 Rs per message
+
