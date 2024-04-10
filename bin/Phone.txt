@@ -1,0 +1,14 @@
+
+
+This is the phone and it will
+contain the list of all the features
+we have
+
+Calling
+
+
+Messaging
+
+Internet
+
+calculator
